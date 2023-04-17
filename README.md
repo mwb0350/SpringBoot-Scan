@@ -1,5 +1,10 @@
 ![SpringBoot-Scan](https://socialify.git.ci/Aabysszg/SpringBoot-Scan/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F54609266&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
+## 免责声明
+本工具仅面向合法授权的企业安全建设行为，如您需要测试本工具的可用性，请自行搭建靶机环境。
+在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。请勿对非授权目标进行扫描。
+如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果，我们将不承担任何法律及连带责任。
+
 # ✈️ 一、工具概述
 日常渗透过程中，经常会碰到Spring Boot搭建的微服务，于是就想做一个针对Spring Boot的开源渗透框架，主要用作扫描Spring Boot的敏感信息泄露端点，并可以直接测试Spring的相关高危漏洞。
 
@@ -156,3 +161,8 @@ hystrix.stream
 如果有师傅有其他敏感文件的目录，可以提交issues，谢谢！！！
 
 ![star](https://starchart.cc/AabyssZG/SpringBoot-Scan.svg)
+
+## 免责声明
+本工具仅面向合法授权的企业安全建设行为，如您需要测试本工具的可用性，请自行搭建靶机环境。
+在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。请勿对非授权目标进行扫描。
+如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果，我们将不承担任何法律及连带责任。
