@@ -5,9 +5,11 @@
 
 于是，就写了这么一个工具：SpringBoot-Scan  【简称：“SB-Scan”（错乱】
 
-**后期将加入更多漏洞利用内置模块（各位师傅能不能赏个Star嘛~码代码挺辛苦的哈哈）**
+** 后期将加入更多漏洞利用内置模块（各位师傅能不能赏个Star嘛~码代码挺辛苦的哈哈）**
 
-**我还整理了一篇SpringBoot的相关渗透姿势在我的个人博客，欢迎各位师傅前来交流哈哈：[https://blog.zgsec.cn/index.php/archives/129/](https://blog.zgsec.cn/index.php/archives/129/)**
+** 我还整理了一篇SpringBoot的相关渗透姿势在我的个人博客，欢迎各位师傅前来交流哈哈：[https://blog.zgsec.cn/index.php/archives/129/](https://blog.zgsec.cn/index.php/archives/129/)**
+
+** SpringBoot Scan GUI | Spring Boot漏洞利用工具 - 🔰雨苁ℒ🔰  https://www.ddosi.org/springboot-scan-gui/
 
 # 📝 二、TODO
 
